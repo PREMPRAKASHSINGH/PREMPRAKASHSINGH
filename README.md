@@ -12,7 +12,7 @@ Sr. Full Stack Developer with nearly 6 years of experience in building scalable 
 - 🔭 I’m currently working on - JavaScript, React, Node.js, and AWS services.
 - 🌱 I’m currently exploring Kubernetes & ELK.
 - 💬 Ask me about anything tech related, I am happy to help.
-- 📫 How to reach me: thisipremsingh@gmail.com
+- 📫 How to reach me: thisispremsingh@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=PREMPRAKASHSINGH&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
