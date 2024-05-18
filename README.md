@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Prem Singh!
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/howtocoder) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-singh-a0921293) 
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/howtocoder)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-singh-a0921293)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/howtocoder)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/howtocoder) 
+
 
 ### Glad to see you here! &nbsp; [![](https://visitcount.itsvg.in/api?id=premprakashsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Sr. Full Stack Developer with nearly 6 years of experience in building scalable web applications and optimizing cloud-based solutions. <br/>
 
 - 🔭 I’m currently working on - JavaScript, React, Node.js, and AWS services.
-- 🌱 I’m currently exploring Typescript;
+- 🌱 I’m currently exploring Kubernetes & ELK.
 - 💬 Ask me about anything tech related, I am happy to help.
 - 📫 How to reach me: thisipremsingh@gmail.com
 
